@@ -38,7 +38,7 @@ export default defineConfig(({ command }) => {
 			format: "es",
 		},
 		optimizeDeps: {
-			exclude: ["@ffmpeg/core-mt", "@ffmpeg/ffmpeg", "@ffmpeg/util"],
+			exclude: [],
 		},
 		css: {
 			preprocessorOptions: {

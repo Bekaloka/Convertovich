@@ -38,8 +38,6 @@
 	},
 	"dependencies": {
 		"@bjorn3/browser_wasi_shim": "^0.4.2",
-		"@ffmpeg/ffmpeg": "^0.12.15",
-		"@ffmpeg/util": "^0.12.2",
 		"@fontsource/azeret-mono": "^5.2.9",
 		"@fontsource/lexend": "^5.2.9",
 		"@fontsource/radio-canada-big": "^5.2.6",
